@@ -2,7 +2,6 @@
 
 [![Firmware build](https://github.com/VoltixTeam/Voltix_ProbeSoftware/actions/workflows/build-firmware.yml/badge.svg)](https://github.com/VoltixTeam/Voltix_ProbeSoftware/actions/workflows/build-firmware.yml)
 [![Python build](https://github.com/VoltixTeam/Voltix_ProbeSoftware/actions/workflows/build-tool.yml/badge.svg)](https://github.com/VoltixTeam/Voltix_ProbeSoftware/actions/workflows/build-tool.yml)
-[![PyPiVersion](https://img.shields.io/pypi/v/voltix_probe.svg)](https://pypi.org/project/voltix_probe)
 
 This repository hosts the firmware running on the [Voltix Probe](https://github.com/VoltixTeam/Voltix_ProbeHardware) and the [Voltix Board](https://github.com/VoltixTeam/Voltix_Board) and a command line tool for controlling the probe via USB. The Voltix Board and Voltix Probe have a Raspberry Pi RP2040 that is connected to a PC via USB and controls programming and debugging of the microcontrollers inside the Voltix module.
 
