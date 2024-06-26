@@ -1,6 +1,6 @@
 """Voltix Probe Python package"""
 
-__version__ = "1.1.0"
+__version__ = "1.2.0"
 
 from voltix_probe.probe import VoltixProbe
 from voltix_probe.probe import VoltixProbeProbe
